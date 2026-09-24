@@ -1,0 +1,9 @@
+name: TastyCroustyPlugin
+description: $description
+version: '${version}'
+
+main: me.akitsu.tastyCroustyPlugin.TastyCroustyPlugin
+api-version: '26.3'
+load: POSTWORLD
+
+authors: [ Akitsu ]
